@@ -7,4 +7,5 @@ simple project
 Sample website with plenty of files for demos
 
 ## Introduction
+show parts of git
 ## deployment
