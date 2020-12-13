@@ -6,6 +6,9 @@ simple project
 for git training 
 Sample website with plenty of files for demos
 
+## how to contribute
+please fork this repo and then issue a pull request for review
+
 ## Introduction
 show parts of git
 ## deployment
