@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 show parts of git
 ## deployment
 deployment can be done 
+### copyright
+copyright message
