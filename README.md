@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 simple project
+
+Adding a line for rebasing 
 ## Purpose
 for git training 
 Sample website with plenty of files for demos
