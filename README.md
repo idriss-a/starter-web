@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 simple project
 
-Adding a line for rebasing 
+Adding a line for rebasing, then more changes fril myfeature too 
 ## Purpose
 for git training 
 Sample website with plenty of files for demos
