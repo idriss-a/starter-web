@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<!-- 
+<<<<<<< HEAD
+copyright som simmy changes 
+=======
+copyright these changes are from the feature branch big trouble
+>>>>>>> e18c22b (fb adding some trouble to simple)
+-->
+<head>
+aaa
+	<title>respectful website</title>
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+		<p>
+			I will be nice
+		</p>
+	</main>
+	<footer class="container">
+
+
+	</main>
+	<footer class="container">
+		<p>&copy; training 2014</p>
+	</footer>
+</body>
+</html>
