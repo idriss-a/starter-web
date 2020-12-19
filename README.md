@@ -17,3 +17,4 @@ show parts of git
 deployment can be done 
 ### copyright
 copyright message
+All rights reserbed
