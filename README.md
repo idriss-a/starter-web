@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 simple project
-
+updating the line with fiw
 Adding a line for rebasing, then more changes fril myfeature too 
 ## Purpose
 for git training 
